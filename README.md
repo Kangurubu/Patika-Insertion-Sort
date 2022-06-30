@@ -1,6 +1,6 @@
 # Patika-Insertion-Sort
 
-This is for www.patika.dev project.
+This is for the www.patika.dev project.
 
 Q] [22,27,16,2,18,6] -> Insertion Sort
 1-> Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
